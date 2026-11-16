@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Global Transcription</string>
+    <string name="notification_channel_name">Transcription Service</string>
+    <string name="notification_channel_description">Controls for system-wide voice recording and transcription</string>
+</resources>
